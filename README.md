@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Kotlin]`. El curs
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+¡Aprende la programación moderna con Kotlin! Desarrolla aplicaciones robustas, interfaces de usuario atractivas y optimiza el rendimiento de tu código con Kotlin. Experimenta con este lenguaje de programación moderno y eficiente que se usa para la programación de Android, la web y más. Este contenido te ayudará a desarrollar tus habilidades, aprende cómo escribir código limpio y eficiente, comprende las características avanzadas del lenguaje, y descubre cómo Kotlin te ayudará a conseguir resultados. ¡Únete a este curso ahora y desarrolla tus destrezas de programación con Kotlin!
 
 ## Instrucciones
 
