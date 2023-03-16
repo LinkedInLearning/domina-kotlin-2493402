@@ -6,23 +6,31 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Kotlin]`. El curs
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-¡Aprende la programación moderna con Kotlin! Desarrolla aplicaciones robustas, interfaces de usuario atractivas y optimiza el rendimiento de tu código con Kotlin. Experimenta con este lenguaje de programación moderno y eficiente que se usa para la programación de Android, la web y más. Este contenido te ayudará a desarrollar tus habilidades, aprende cómo escribir código limpio y eficiente, comprende las características avanzadas del lenguaje, y descubre cómo Kotlin te ayudará a conseguir resultados. ¡Únete a este curso ahora y desarrolla tus destrezas de programación con Kotlin!
+¡Aprende la programación moderna con Kotlin! Desarrolla aplicaciones robustas, interfaces de usuario atractivas y optimiza el rendimiento de tu código con Kotlin. Experimenta con este lenguaje de programación moderno y eficiente que se usa para la programación de Android, web y más. Este contenido está diseñado para mostrarte soluciones a problemas comunes y no tan comunes, dividido en dos niveles, intermedio y avanzado. De esta manera podrás encontrar una solución a esas dudas que te entran cuando estas programando. ¡Únete a este curso ahora y desarrolla tus destrezas de programación con Kotlin!
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+1) Para abrir el proyecto y usar los archivos fuente usa el siguiente IDE:
+   * IntelliJ IDEA (https://www.jetbrains.com/es-es/idea/)
 
-## Ramas
+2) Puedes clonarte este repositorio en tu ordenador local o bajarte el proyecto en formato zip. No necesitarás trabajar con ramas. 
 
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
 
-## Instalación
+## Carpetas
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+En este repositorio encontraras los archivos organizados por carpetas. En primer lugar verás dos carpetas que corresponden a los dos niveles de ejercicios que tiene el curso:
+   - `capitulo_01_intermedio`
+   - `capitulo_02_avanzado`
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+Dentro de cada uno de los niveles, cada ejercicio tiene una carpeta: `ejercicio1`, `ejercicio2`, `ejercicio3`, etc.
+A su vez en la carpeta del ejercicio correspondiente nos encontramos lo siguiente:
+
+   - `EjercicioX-a.kt`: archivo o archivos tal y cómo comienza el video. 
+   - `completado`: Carpeta con el o los archivos con la solución final.
+
+Al comienzo del curso tienes un video donde queda explicado: [link del video]
+
+
 
 ### Docente
 
