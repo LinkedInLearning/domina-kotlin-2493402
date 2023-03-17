@@ -23,9 +23,9 @@ En este repositorio encontraras los archivos organizados por carpetas. En primer
    - `capitulo_02_avanzado`
 
 Dentro de cada uno de los niveles, cada ejercicio tiene una carpeta: `ejercicio1`, `ejercicio2`, `ejercicio3`, etc.
-A su vez en la carpeta del ejercicio correspondiente nos encontramos lo siguiente:
+A su vez, en la carpeta del ejercicio correspondiente nos encontramos lo siguiente:
 
-   - `EjercicioX-a.kt`: archivo o archivos tal y cómo comienza el video. 
+   - `EjercicioX-a.kt`: archivo o archivos tal y como comienza el video. 
    - `completado`: Carpeta con el o los archivos con la solución final.
 
 Al comienzo del curso tienes un video donde queda explicado: [link del video]
