@@ -1,6 +1,6 @@
 # Domina Kotlin
 
-Este es el repositorio del curso de LinkedIn Learning `[Domina Kotlin]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Kotlin`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
@@ -40,6 +40,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGZ925MwkL4rA/learning-public-crop_675_1200/0/1681979549525?e=2147483647&v=beta&t=AgXIi4-m92-QbdFzQLRAqbtGipaUTnN5XfilUuCSa1c
 
 [1]: # (End of ES-Instruction ###############################################################################################)
