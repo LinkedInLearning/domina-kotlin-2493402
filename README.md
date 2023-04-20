@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Domina Kotlin`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Nombre completo del curso][lil-thumbnail-url]
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -28,7 +28,7 @@ A su vez, en la carpeta del ejercicio correspondiente nos encontramos lo siguien
    - `EjercicioX-a.kt`: archivo o archivos tal y como comienza el video. 
    - `completado`: Carpeta con el o los archivos con la solución final.
 
-Al comienzo del curso tienes un video donde queda explicado: [link del video]
+Al comienzo del curso tienes un [video donde queda explicado][https://www.linkedin.com/learning/domina-kotlin/estructura-de-los-archivos-del-curso].
 
 
 
@@ -39,7 +39,7 @@ Al comienzo del curso tienes un video donde queda explicado: [link del video]
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/radostina-tachova-chergarska).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-kotlin
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGZ925MwkL4rA/learning-public-crop_675_1200/0/1681979549525?e=2147483647&v=beta&t=AgXIi4-m92-QbdFzQLRAqbtGipaUTnN5XfilUuCSa1c
 
 [1]: # (End of ES-Instruction ###############################################################################################)
