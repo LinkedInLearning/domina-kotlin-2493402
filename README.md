@@ -28,7 +28,7 @@ A su vez, en la carpeta del ejercicio correspondiente nos encontramos lo siguien
    - `EjercicioX-a.kt`: archivo o archivos tal y como comienza el video. 
    - `completado`: Carpeta con el o los archivos con la solución final.
 
-Al comienzo del curso tienes un [video donde queda explicado][https://www.linkedin.com/learning/domina-kotlin/estructura-de-los-archivos-del-curso].
+Al comienzo del curso tienes un [video donde queda explicado].
 
 
 
@@ -41,5 +41,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-kotlin
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGZ925MwkL4rA/learning-public-crop_675_1200/0/1681979549525?e=2147483647&v=beta&t=AgXIi4-m92-QbdFzQLRAqbtGipaUTnN5XfilUuCSa1c
+[video donde queda explicado]: https://www.linkedin.com/learning/domina-kotlin/estructura-de-los-archivos-del-curso
 
 [1]: # (End of ES-Instruction ###############################################################################################)
